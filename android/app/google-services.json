@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443636381016",
+    "project_id": "malavan1-d2dbb",
+    "storage_bucket": "malavan1-d2dbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443636381016:android:6e4f7b02cfd50a5c1ca12d",
+        "android_client_info": {
+          "package_name": "com.example.malavan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZKfMGMGLssCUk1gRkoe1fj29_zxDc2Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
